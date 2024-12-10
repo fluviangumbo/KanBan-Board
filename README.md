@@ -14,7 +14,7 @@ This is a basic KanBan board implemented with a PostgreSQL database and user log
 
 ## Installation
 
-They can visit the deployed application at this link: 
+They can visit the deployed application at this link: https://kanban-board-vmzh.onrender.com
 
 ## Usage
 
