@@ -24,4 +24,5 @@ export const authenticateToken = (req: Request, res: Response, next: NextFunctio
   } else {
     return res.sendStatus(401);
   }
+  return
 };
